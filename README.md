@@ -14,7 +14,7 @@ My work covers custom CMS and admin panels, REST APIs, payment gateway integrati
 
 **Currently:** freelance web development (PHP and Laravel) since 2026, after working as a Web Developer in the Digital Department at Kokan Kala Va Shikshan Vikas Sanstha (Aug 2022 – Aug 2026).
 
-<img src="assets/divider.svg" alt="" width="100%"/>
+<img src="divider.svg" alt="" width="100%"/>
 
 ## ✦ Achievements & Certifications
 
@@ -30,7 +30,7 @@ My work covers custom CMS and admin panels, REST APIs, payment gateway integrati
 
 **Education:** Bachelor of Computer Applications (BCA)
 
-<img src="assets/divider.svg" alt="" width="100%"/>
+<img src="divider.svg" alt="" width="100%"/>
 
 ## ✦ Selected Work
 
@@ -43,7 +43,7 @@ My work covers custom CMS and admin panels, REST APIs, payment gateway integrati
 
 > Live sites are linked above as samples of the organisation's work I contributed to.
 
-<img src="assets/divider.svg" alt="" width="100%"/>
+<img src="divider.svg" alt="" width="100%"/>
 
 ## ✦ Skills
 
@@ -88,6 +88,6 @@ github-readme-stats is often rate-limited, which can leave a broken image):
 
 <div align="center">
 
-<img src="assets/footer.svg" alt="Thanks for visiting" width="100%"/>
+<img src="footer.svg" alt="Thanks for visiting" width="100%"/>
 
 </div>
