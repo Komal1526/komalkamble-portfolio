@@ -1,25 +1,94 @@
-<div align="center">
+ <div align="center">
 
-<img src="komal-hero.svg" alt="Komal Sunil Kamble — Web Developer | PHP | Laravel | CodeIgniter | JavaScript" width="100%"/>
+<img src="komal-hero.svg" width="100%" alt="Komal Sunil Kamble — Web Developer"/>
+
+**PHP Developer · Laravel Developer · Backend & Web Applications**
+
+Mumbai, India · Open to Web Developer Opportunities
+
+[Portfolio](https://komal1526.github.io/komalkamble.github.io) · [LinkedIn](https://linkedin.com/in/komal-kamble/) · [GitHub](https://github.com/komal1526)
 
 </div>
 
-<br/>
+---
 
-## ✦ About
+## ✦ ABOUT ME
 
-Web Developer based in Mumbai, India, with 4 years of professional experience building dynamic, responsive, database-driven websites and web applications. I work mainly with **Core PHP, Laravel and CodeIgniter** on the backend and **JavaScript, jQuery, Bootstrap** on the frontend, with **MySQL** underneath.
+I'm **Komal Sunil Kamble**, a Web Developer based in Mumbai, India, with **4 years of professional experience** building dynamic, responsive and database-driven websites and web applications.
 
-My work covers custom CMS and admin panels, REST APIs, payment gateway integrations (Razorpay, Easebuzz), donation management and email notification workflows, plus deployment, debugging and performance tuning. I like learning new technologies and turning requirements into efficient, maintainable web solutions.
+My core expertise includes **Core PHP, Laravel, CodeIgniter, MySQL and JavaScript**. I enjoy developing backend functionality, admin dashboards, custom CMS platforms, REST APIs and third-party integrations.
 
-**Currently:** freelance web development (PHP and Laravel) since 2026, after working as a Web Developer in the Digital Department at Kokan Kala Va Shikshan Vikas Sanstha (Aug 2022 – Aug 2026).
+I focus on writing maintainable code, solving practical development challenges and delivering reliable web solutions.
 
-<img src="divider.svg" alt="" width="100%"/>
+- 💻 **Currently:** Freelance Web Developer
+- ⚙️ **Specialization:** PHP, Laravel, CodeIgniter
+- 🗄️ **Database:** MySQL
+- 🔌 **Integrations:** REST APIs, Razorpay, Easebuzz
+- 📍 **Location:** Mumbai, Maharashtra, India
+- 🎯 **Career Focus:** PHP / Laravel Web Development
 
-## ✦ Achievements & Certifications
+**Professional Experience**
+
+Web Developer — Digital Department  
+Kokan Kala Va Shikshan Vikas Sanstha  
+August 2022 – August 2026
+
+---
+
+## ✦ TECHNICAL EXPERTISE
+
+| Category | Technologies |
+|---|---|
+| **Backend** | Core PHP, Laravel, CodeIgniter, PHP OOP |
+| **Frontend** | HTML5, CSS3, JavaScript, jQuery, Bootstrap |
+| **Database** | MySQL, SQL, phpMyAdmin |
+| **API & Integration** | REST APIs, AJAX, JSON, Razorpay, Easebuzz |
+| **CMS & Tools** | WordPress, Git, GitHub, VS Code, Postman |
+| **Server & Deployment** | XAMPP, cPanel, AWS server knowledge |
+| **Other** | Debugging, SEO, Responsive Design, Performance Optimization |
+
+---
+
+## ✦ FEATURED PROJECTS
+
+### 01 — NGO Website & Content Management System
+
+**Problem:** Managing organizational content, donation information and public-facing services through dynamic websites.
+
+**My contribution:** Website development, backend functionality, admin dashboard, dynamic content management and modules for donations, careers and emergency assistance.
+
+**Technologies:** PHP · CodeIgniter · Laravel · MySQL · JavaScript · Bootstrap
+
+🌐 [Visit Kokan NGO](https://kokanngo.org/)
+
+### 02 — Donation Management System
+
+**Problem:** Managing online donations and payment-related workflows.
+
+**My contribution:** Laravel-based donation functionality, payment gateway integration, donation tracking, email notifications and payment workflow management.
+
+**Technologies:** Laravel · PHP · MySQL · Razorpay · Easebuzz · JavaScript
+
+🌐 [Visit CDF](https://cdf.world/)
+
+### 03 — Responsive Website Development
+
+**Problem:** Creating responsive, database-driven websites with manageable content and functional admin panels.
+
+**My contribution:** Frontend implementation, backend development, database integration, admin functionality, debugging and optimization across multiple website projects.
+
+**Technologies:** Core PHP · MySQL · HTML5 · CSS3 · JavaScript · Bootstrap
+
+🌐 [Explore More Projects](https://komal1526.github.io/komalkamble.github.io)
+
+<sub>Note: Linked websites are project samples from organizational work I contributed to, not claims of sole ownership.</sub>
+
+---
+
+## ✦ ACHIEVEMENTS & CERTIFICATIONS
 
 | Recognition | Year |
-|---|---|
+|---|---:|
 | 🏆 Beyond Duties Award | 2023 |
 | 🏆 Best Employee Award | 2024 |
 | 🏆 Best Team Award | 2025 |
@@ -30,64 +99,47 @@ My work covers custom CMS and admin panels, REST APIs, payment gateway integrati
 
 **Education:** Bachelor of Computer Applications (BCA)
 
-<img src="divider.svg" alt="" width="100%"/>
+---
 
-## ✦ Selected Work
-
-| Project | What I worked on |
-|---|---|
-| **[NGO Website & CMS](https://kokanngo.org/)** | NGO websites in PHP, CodeIgniter and Laravel, with dynamic content management, an admin dashboard, and donation, career and emergency assistance modules. |
-| **[Donation Management System](https://cdf.world/)** | Laravel-based donation functionality with Razorpay and Easebuzz integration, donation tracking, email notifications and payment workflows. |
-| **[Portfolio](https://komal1526.github.io/komalkamble.github.io)** | Personal portfolio with more work samples. |
-| **Dynamic Website Development** | Multiple responsive, database-driven sites in PHP, HTML, CSS, JavaScript and Bootstrap, with admin panels, SEO and performance work. |
-
-> Live sites are linked above as samples of the organisation's work I contributed to.
-
-<img src="divider.svg" alt="" width="100%"/>
-
-## ✦ Skills
-
-| | |
-|---|---|
-| **Backend** | `Core PHP` · `Laravel` · `CodeIgniter` · `REST APIs` · `PHP OOP` |
-| **Frontend** | `HTML5` · `CSS3` · `JavaScript` · `jQuery` · `Bootstrap` · `AJAX` · `Responsive Design` |
-| **Database** | `MySQL` · `phpMyAdmin` · `Database Design` · `SQL` |
-| **Tools** | `Git` · `GitHub` · `VS Code` · `XAMPP` · `cPanel` · `Postman` · `AWS (server knowledge)` |
-| **CMS & Integrations** | `WordPress` · `Razorpay` · `Easebuzz` · `Email Integration` · `Third-party APIs` |
-| **Strengths** | Problem-solving · Debugging · Analytical thinking · Team collaboration · Time management · Communication |
-
-<img src="assets/divider.svg" alt="" width="100%"/>
-
-## ✦ GitHub Activity
+## ✦ GITHUB ACTIVITY
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/701A3D/komal1526" alt="GitHub contribution heatmap for komal1526" width="100%"/>
+<img src="https://ghchart.rshah.org/701A3D/komal1526" width="100%" alt="Live GitHub contribution graph"/>
 
-<sub>Live contribution data via <a href="https://ghchart.rshah.org">ghchart.rshah.org</a>, generated from my public GitHub activity.</sub>
+<sub>Live contribution data from public GitHub activity · Powered by ghchart</sub>
 
 </div>
 
-<!--
-OPTIONAL stats card (uncomment only if you want it; the public Vercel instance of
-github-readme-stats is often rate-limited, which can leave a broken image):
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=komal1526&show_icons=true&hide_border=true&bg_color=190B12&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B" alt="GitHub stats" width="100%"/>
--->
+## ✦ WHAT I'M WORKING TOWARDS
 
-<img src="assets/divider.svg" alt="" width="100%"/>
+- Building scalable PHP and Laravel applications.
+- Improving advanced Laravel and API development skills.
+- Exploring modern backend architecture and application security.
+- Developing practical projects and expanding my freelance portfolio.
 
-## ✦ Connect
+---
 
-- 🌐 **Portfolio:** [komal1526.github.io/komalkamble.github.io](https://komal1526.github.io/komalkamble.github.io)
-- 💼 **LinkedIn:** [linkedin.com/in/komal-kamble](https://linkedin.com/in/komal-kamble/)
-- 🏢 **Organisation site:** [kokanngo.org](https://kokanngo.org/)
-- 🧩 **Project samples:** [cdf.world](https://cdf.world/)
-
-<br/>
+## ✦ LET'S CONNECT
 
 <div align="center">
 
-<img src="footer.svg" alt="Thanks for visiting" width="100%"/>
+**Have a web development project or professional opportunity?**
+
+[🌐 Portfolio](https://komal1526.github.io/komalkamble.github.io)
+
+[💼 LinkedIn](https://linkedin.com/in/komal-kamble/)
+
+[🐙 GitHub](https://github.com/komal1526)
+
+[🏢 Kokan NGO](https://kokanngo.org/)
+
+<br/>
+
+**Thanks for visiting my profile!**
+
+*Building useful things, one line of code at a time.*
 
 </div>
