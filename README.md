@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/komal-hero.svg" alt="Komal Sunil Kamble — Web Developer | PHP | Laravel | CodeIgniter | JavaScript" width="100%"/>
+<img src="komal-hero.svg" alt="Komal Sunil Kamble — Web Developer | PHP | Laravel | CodeIgniter | JavaScript" width="100%"/>
 
 </div>
 
